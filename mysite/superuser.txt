@@ -1,0 +1,9 @@
+admin
+admin@example.com
+monster030cf49a89
+
+https://docs.djangoproject.com/en/3.2/intro/tutorial02/
+
+dj4e
+example@example.com
+74ba9bc17
